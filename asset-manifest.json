@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/consult-kishan/static/css/main.9b91a352.css",
+    "main.js": "/consult-kishan/static/js/main.e65e009b.js",
+    "static/js/787.dd507d46.chunk.js": "/consult-kishan/static/js/787.dd507d46.chunk.js",
+    "static/media/home.png": "/consult-kishan/static/media/home.4d3f603cc960512b1871.png",
+    "index.html": "/consult-kishan/index.html",
+    "main.9b91a352.css.map": "/consult-kishan/static/css/main.9b91a352.css.map",
+    "main.e65e009b.js.map": "/consult-kishan/static/js/main.e65e009b.js.map",
+    "787.dd507d46.chunk.js.map": "/consult-kishan/static/js/787.dd507d46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b91a352.css",
+    "static/js/main.e65e009b.js"
+  ]
+}
